@@ -106,7 +106,7 @@ main {
 
 .style-section2 {
 
-    padding: 50px 90px 142px 126px;
+    padding: 50px 90px 140px 126px;
     background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
     border-radius: 25px 25px 25px 25px;
 }
@@ -119,7 +119,7 @@ main {
 }
 
 .par-style {
-    color: rgba(255, 255, 255, 0.80);
+    color: rgba(255, 255, 255, 0.60);
     font-family: Inter;
     font-size: 18px;
     font-style: normal;
